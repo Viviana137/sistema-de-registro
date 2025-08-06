@@ -2,3 +2,4 @@
 -estado del proyecto: En contrucción
 para ejecutar el sistema debes poner el :
 ``npm install react``
+sistema de registro 2
